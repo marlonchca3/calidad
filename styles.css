@@ -172,6 +172,10 @@ footer {
     cursor: pointer;
 }
 
+.download-link {
+    color: #87CEEB;
+}
+
 .menu-toggle span {
     width: 25px;
     height: 3px;
@@ -180,9 +184,6 @@ footer {
     transition: 0.3s;
 }
 
-.download-link {
-    color: #87CEEB;
-}
 
 /* Responsive Design */
 @media screen and (max-width: 768px) {
